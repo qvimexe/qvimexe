@@ -8,8 +8,9 @@
 
 - 🧪 Automating web testing with Playwright + Jest
 - 🎨 Ex-Frontend dev → I know how developers think 😉
-- 🎥 <span align="center">Sharing IT fun 
-  <a href="https://www.youtube.com/@qvimexe" target="_blank">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+🎥 Sharing IT fun
+<a href="https://www.youtube.com/@qvimexe" target="_blank">
 <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=fff&style=flat" height="20" />
 </a>
 </p>
