@@ -10,8 +10,9 @@
 - 🎨 Ex-Frontend dev → I know how developers think 😉
 - 🎥 <span align="center">Sharing IT fun 
   <a href="https://www.youtube.com/@qvimexe" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=fff&style=flat" height="20" style="vertical-align: middle;"/></a>
-</span>
+<img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=fff&style=flat" height="20" />
+</a>
+</p>
 
 ###
 
