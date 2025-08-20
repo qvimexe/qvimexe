@@ -8,9 +8,7 @@
 
 - 🧪 Automating web testing with Playwright + Jest
 - 🎨 Ex-Frontend dev → I know how developers think 😉
-- 🎥 Sharing IT fun
-  <a href="https://www.youtube.com/@qvimexe" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=fff&style=flat" height="20" style="vertical-align: middle;"/> </a>
+- 🎥 Sharing IT fun on [YouTube](https://www.youtube.com/@qvimexe)
 
 ###
 
