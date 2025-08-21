@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
+![Allure](https://img.shields.io/badge/-Allure%20Report-FF4081?logo=allure&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=fff)
